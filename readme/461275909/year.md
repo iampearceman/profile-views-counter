@@ -1,7 +1,7 @@
-## [🔙 profile-views-counter](https://github.com/pearceman/profile-views-counter)
+## [🔙 profile-views-counter](https://github.com/iampearceman/profile-views-counter)
 
-### :octocat: [pearceman](https://github.com/pearceman/pearceman)
-![Image of profile-views-counter](https://github.com/pearceman/profile-views-counter/blob/master/graph/461275909/large/year.png)
+### :octocat: [pearceman](https://github.com/iampearceman/pearceman)
+![Image of profile-views-counter](https://github.com/iampearceman/profile-views-counter/blob/master/graph/461275909/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/4/30 12:07 PM UTC</i></small>
+<small><i>Last updated on 2022/4/30 6:06 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/pearceman/profile-views-counter/blob/master/svg/461275909/badge.svg)](https://github.com/pearceman/profile-views-counter/blob/master/readme/461275909/week.md)
+[![Image of profile-views-counter](https://github.com/iampearceman/profile-views-counter/blob/master/svg/461275909/badge.svg)](https://github.com/iampearceman/profile-views-counter/blob/master/readme/461275909/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/pearceman/profile-views-counter/blob/master/svg/461275909/badge.svg)](https://github.com/pearceman/profile-views-counter/blob/master/readme/461275909/week.md)
+[![Image of profile-views-counter](https://github.com/iampearceman/profile-views-counter/blob/master/svg/461275909/badge.svg)](https://github.com/iampearceman/profile-views-counter/blob/master/readme/461275909/week.md)
 ```
 ### Header
-# pearceman [<img alt="Image of profile-views-counter" src="https://github.com/pearceman/profile-views-counter/blob/master/graph/461275909/small/year.png" height="20">](https://github.com/pearceman/profile-views-counter/blob/master/readme/461275909/year.md)
+# pearceman [<img alt="Image of profile-views-counter" src="https://github.com/iampearceman/profile-views-counter/blob/master/graph/461275909/small/year.png" height="20">](https://github.com/iampearceman/profile-views-counter/blob/master/readme/461275909/year.md)
 ```readme
-# pearceman [<img alt="Image of profile-views-counter" src="https://github.com/pearceman/profile-views-counter/blob/master/graph/461275909/small/year.png" height="20">](https://github.com/pearceman/profile-views-counter/blob/master/readme/461275909/year.md)
+# pearceman [<img alt="Image of profile-views-counter" src="https://github.com/iampearceman/profile-views-counter/blob/master/graph/461275909/small/year.png" height="20">](https://github.com/iampearceman/profile-views-counter/blob/master/readme/461275909/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
